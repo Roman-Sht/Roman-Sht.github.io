@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "."
+        }
+    ],
+    "settings": {
+        "xdebug": {
+             "url": "localhost:8888/CC_PHP/problem03/eight_queens.php"
+        }
+    }
+}

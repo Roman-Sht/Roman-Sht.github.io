@@ -1,0 +1,1155 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"calc",
+				"calculateEightQueen"
+			],
+			[
+				"new",
+				"new_loc"
+			],
+			[
+				"qu",
+				"queen"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"queen",
+				"new_queen"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"flipp",
+				"flippedDir"
+			],
+			[
+				"scale",
+				"scaledDir"
+			],
+			[
+				"fil",
+				"files"
+			],
+			[
+				"imageDi",
+				"imageDir"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"origi",
+				"original_image"
+			],
+			[
+				"size",
+				"size_image"
+			],
+			[
+				"width",
+				"width_array"
+			],
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"coll",
+				"collectGarbage"
+			],
+			[
+				"max",
+				"maxprice"
+			],
+			[
+				"min",
+				"minprice"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"car",
+				"car_id"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"y",
+				"yearmade"
+			],
+			[
+				"search",
+				"searchterm"
+			],
+			[
+				"error",
+				"error_info"
+			],
+			[
+				"err",
+				"error_info"
+			],
+			[
+				"bro",
+				"browser_name"
+			],
+			[
+				"user",
+				"user_agent"
+			],
+			[
+				"detect",
+				"detect_platform"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"forw",
+				"forwarded_ip"
+			],
+			[
+				"date",
+				"date_new_format"
+			],
+			[
+				"DIS",
+				"DISTINCT"
+			],
+			[
+				"individ",
+				"individual1"
+			],
+			[
+				"relate",
+				"related_records_num"
+			],
+			[
+				"nam",
+				"nameOutput"
+			],
+			[
+				"even",
+				"event"
+			],
+			[
+				"collec",
+				"collection_id"
+			],
+			[
+				"con",
+				"cond"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"output",
+				"output_dir"
+			],
+			[
+				"hadoop",
+				"hadoop_matches"
+			],
+			[
+				"site",
+				"site_matches"
+			],
+			[
+				"dh_",
+				"dh_rm_qt"
+			],
+			[
+				"pb",
+				"pbpaste"
+			],
+			[
+				"relat",
+				"relatives"
+			],
+			[
+				"rela",
+				"relatives"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"rel",
+				"relationship"
+			],
+			[
+				"STD",
+				"STDIN"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"colle",
+				"collection_id"
+			],
+			[
+				"eve",
+				"event2_helper"
+			],
+			[
+				"ev",
+				"event1"
+			],
+			[
+				"ite",
+				"item_id"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"cp",
+				"cp"
+			],
+			[
+				"tree",
+				"tree_size"
+			],
+			[
+				"sma",
+				"smart_matches_full"
+			],
+			[
+				"s",
+				"sm_num"
+			],
+			[
+				"rm",
+				"rm_num"
+			],
+			[
+				"t",
+				"tree_size"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"na",
+				"names_file"
+			],
+			[
+				"newL",
+				"newLinkElement"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"Crea",
+				"createTextNode"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"my",
+				"myElement"
+			],
+			[
+				"pla",
+				"playerDetails"
+			],
+			[
+				"va",
+				"variable1"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"tota",
+				"total_sis"
+			],
+			[
+				"Sequence",
+				"SEQUENCEFILE"
+			],
+			[
+				"folder",
+				"folder_path"
+			],
+			[
+				"tot",
+				"totalCount"
+			],
+			[
+				"indi",
+				"individual2"
+			],
+			[
+				"mat",
+				"match_num_group"
+			],
+			[
+				"match",
+				"match_num_group"
+			],
+			[
+				"in",
+				"individual1"
+			],
+			[
+				"ft",
+				"ft_matches"
+			],
+			[
+				"score",
+				"score_range"
+			],
+			[
+				"exc",
+				"excluded_by_filter"
+			],
+			[
+				"c",
+				"criterion"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/roman.shtrahman/Web Development/Programming/matches_compare/ids_to_urls.php",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roman.shtrahman/Web Development/Programming/parameters_dictionary.php",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/matches_stats.hive",
+			"settings":
+			{
+				"buffer_size": 17346,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/high-level-stats-emr.sh",
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/matches_per_tree_size/matches_per_treesize_queries.sql",
+			"settings":
+			{
+				"buffer_size": 5160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/high-level-stats-emr.hive",
+			"settings":
+			{
+				"buffer_size": 8258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/roman.shtrahman/NewMatching/trunk/scripts/compare-sis/compare-sis.php",
+			"settings":
+			{
+				"buffer_size": 14958,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "eight_queens.php",
+			"settings":
+			{
+				"buffer_size": 930,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 1778,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/main.css",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 378.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/CC_PHP/problem02/find_cropped.php",
+		"/Applications/MAMP/htdocs/CC_PHP/problem02/display_result.php",
+		"/Applications/MAMP/htdocs/CC_PHP/problem03/test.php",
+		"/Applications/MAMP/htdocs/CC_PHP/problem02/Foundationphp/ImageHandling/Scale.php",
+		"/Applications/MAMP/htdocs/CC_PHP/problem02/includes/subimage_search.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/Foundationphp/Sessions/MysqlSessionHandler.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/Foundationphp/Sessions/PersistentSessionHandler.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/Foundationphp/Sessions/AutoLogin.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/Foundationphp/Sessions/PersistentProperties.php",
+		"/Applications/MAMP/htdocs/CC_PHP/problem02/img_crop_finder.php",
+		"/tmp/subl stdin xnL1KA.txt",
+		"/tmp/subl stdin FQ1l8j.txt",
+		"/tmp/subl stdin e9Cy4p.txt",
+		"/Applications/MAMP/htdocs/CC_PHP/img_crop_finder.php",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch04/04_03/storeAutologinData.txt",
+		"/Applications/MAMP/htdocs/Sites/persistent/includes/db_connect.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/session_03.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/session_02.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/session_01.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/db_connect.php",
+		"/tmp/subl stdin sUdqKH.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch01/01_04/session_03.php",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch01/01_04/session_02.php",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch01/01_04/session_01.php",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch03/03_05/destroy.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch03/03_04/close.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch03/03_02/helpers.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch03/03_03/write.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch03/03_02/read.txt",
+		"/Users/roman.shtrahman/Downloads/queries-site.json",
+		"/tmp/subl stdin nzGZN4.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch02/02_02/persistent.sql",
+		"/Applications/MAMP/htdocs/Ex_Files_mngphp/Exercise Files/Ch02/02_01/create_db.sql",
+		"/Applications/MAMP/htdocs/Sites/persistent/php_info.php",
+		"/Applications/MAMP/htdocs/Sites/persistent/phpinfo.php",
+		"/tmp/subl stdin lkwdY0.txt",
+		"/tmp/subl stdin sl9dq7.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/mysqli_buffered.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch07/07_05/Car.php",
+		"/Users/roman.shtrahman/Web Development/Programming/notebooks.txt",
+		"/Users/roman.shtrahman/Web Development/Programming/notebook_EMR.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch06/06_01/mysqli_statement.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch06/06_03/mysqli_statement.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch07/07_04/mysqli_multi.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch07/07_02/mysqli_real_query.php",
+		"/tmp/subl stdin mhRP1k.txt",
+		"/tmp/subl stdin Sa2FNJ.txt",
+		"/tmp/subl stdin JXQEWw.txt",
+		"/tmp/subl stdin iwHevx.txt",
+		"/tmp/subl stdin H6Z6Bd.txt",
+		"/tmp/subl stdin hyWzZC.txt",
+		"/tmp/subl stdin gjJ2PB.txt",
+		"/tmp/subl stdin TCAW57.txt",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch05/05_01/mysqli_test.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch05/05_08/mysqli_escape.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch05/05_07/mysqli_error.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch05/05_04/mysqli_fetch_assoc.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch05/05_03/mysqli_num_rows.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/includes/mysqli_connect.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_03/fetch_class.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_03/Car.php",
+		"/Applications/MAMP/htdocs/btb_sandbox/magic_methods.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_04/pdo_scrollable.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_04/pdo_reuse.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_02/fetch_into.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/includes/pdo_connect.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_02/Car.php",
+		"/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/children_matches_samples.hive",
+		"/Users/roman.shtrahman/Desktop/book_dedupe_queries.sql",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch03/03_07/pdo_check_balance.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch04/04_01/pdo_array.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch03/03_06/pdo_transaction.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch03/03_05/pdo_output.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch03/03_04/pdo_named_execute.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch03/03_03/pdo_anonymous.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch03/03_02/pdo_named.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_09/pdo_quote.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_08/pdo_error.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_06/pdo_checkrow.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_05/pdo_rowcount.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_04/pdo_fetchColumn.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_04/pdo_fetchAll.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_04/pdo_fetch.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_02/pdo_test_end.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_03/pdo_loop.php",
+		"/Applications/MAMP/htdocs/Ex_Files_DBOOPHP/Exercise Files/ch02/02_02/pdo_test.php",
+		"/Applications/MAMP/htdocs/btb_sandbox/browser_detective.php",
+		"/Applications/MAMP/htdocs/btb_sandbox/whatismyip.php",
+		"/Users/roman.shtrahman/Desktop/book_pool_sample.json",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/logs_to_bq/convert-avro-to-json.pig",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/logs_to_bq/bq_load_single_logs_date.sh",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/logs_to_bq/instruction.txt",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/logs_to_bq/run_bq_load_parallel.sh",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/bigquery cli",
+		"/Users/roman.shtrahman/NewMatching/trunk/scripts/compare-sis/compare-sis.php",
+		"/tmp/subl stdin mbLfkG.txt",
+		"/Users/roman.shtrahman/Downloads/bar_stacked.py",
+		"/Users/roman.shtrahman/Downloads/dates.txt",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/dir_names.txt",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/logs_to_bq/bq_load_haproxy_logs.sh",
+		"/tmp/subl stdin VkJGDN.txt",
+		"/Users/roman.shtrahman/NewMatching/trunk/scripts/generate-mh-si/run-pig-per-part.sh",
+		"/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/free_text_matches_stats.sql",
+		"/Users/roman.shtrahman/Web Development/Programming/Transliteration/names_analysis_diffs.php",
+		"/Users/roman.shtrahman/Web Development/Programming/Transliteration/names_analysis.php",
+		"/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/r2r_stats/r2r_stats.hive",
+		"/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/matches_per_tree_size/matches_per_treesize_queries.sql",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/convert-avro-to-json.pig",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/bq_load_single_logs_date.sh",
+		"/Volumes/Transcend/Rami's HP Labtop/Master studies/3rd Rotation/Results/121025 - 3 colors exp52-GOOD/3 colors - 25-10-2012 exp52/25-10-2012_Tube_001.fcs",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/haproxy-log-json-schema",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/haproxy-log-json-schema-array2",
+		"/Users/roman.shtrahman/Web Development/Programming/bigquery/haproxy-log-json-schema-array",
+		"/Users/roman.shtrahman/Downloads/logs/convert-avro-to-json.pig",
+		"/Users/roman.shtrahman/Downloads/logs10.csv",
+		"/Users/roman.shtrahman/Downloads/logs20.csv",
+		"/Users/roman.shtrahman/Downloads/logs.csv",
+		"/Users/roman.shtrahman/Downloads/log.avsc",
+		"/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/book-matches/extract_new_matches.hive.hql",
+		"/Users/roman.shtrahman/book_matches/book_maches_typos.hive",
+		"/Users/roman.shtrahman/Desktop/foxyproxy-settings.xml",
+		"/tmp/subl stdin 7V5vNO.txt",
+		"/tmp/subl stdin zFkswc.txt",
+		"/tmp/subl stdin Yg1nr6.txt",
+		"/Users/roman.shtrahman/Web Development/Programming/Transliteration/lookup_names.php",
+		"/Users/roman.shtrahman/matching_stats/pyhive-test.py",
+		"/Users/roman.shtrahman/Web Development/Programming/yad2.rb",
+		"/Users/roman.shtrahman/Downloads/seo.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"var_dump",
+			"var_dump]",
+			"var",
+			"scaleDir",
+			"different\": [^0]",
+			"read(",
+			"true",
+			"different\": [^0]",
+			"exter",
+			"different\": [^0]",
+			"different\": [^0}",
+			"different\": [^0]",
+			"externa",
+			"normsi",
+			"extern",
+			"different\": [^0]",
+			"extern",
+			"10442",
+			"exter",
+			"\"10442",
+			"\"10444",
+			"store",
+			"distin",
+			"skipped\": [^0]",
+			"different\": [^0]",
+			"output_folder",
+			"source",
+			"part",
+			"partdate",
+			"pig",
+			"INTEGER",
+			"STRING",
+			"\\\"type\\\": \\\"([\\w]+)\\\", \\\"name\\\": \\\"([\\w]+)\\\"",
+			"'",
+			"code",
+			"\\},",
+			"},",
+			", ",
+			",",
+			"d_tree_time",
+			"d_queue_time",
+			"dh_rm_qt",
+			"genealogy_family_trees",
+			"matcher_queue_items",
+			"output_folder",
+			"distinct",
+			"distin",
+			"distinct if",
+			"score <",
+			"score >",
+			"score",
+			"scores",
+			"disti",
+			"dis",
+			" - ",
+			"patch",
+			"head",
+			"csv",
+			"findspa",
+			"find",
+			"chmod",
+			"hash",
+			"join",
+			"assert",
+			"test",
+			"-name",
+			"print",
+			"hash",
+			"terna",
+			"normsi",
+			"root",
+			"global",
+			"limitRelativesNum",
+			"using",
+			"join",
+			"using",
+			"skipped\": [^0]",
+			"different\": [^0]",
+			"combinedId",
+			"1759-",
+			"diffsTo",
+			"skipped\": [^0]",
+			"&=",
+			"global",
+			"$_SERVER",
+			"$SERVER",
+			"$_SERVER",
+			"echo",
+			"error",
+			"find",
+			"skipped\": [^0]",
+			"different\": [^0]",
+			"scp",
+			"import",
+			"export",
+			"json",
+			"sprintf",
+			"print",
+			"FROM",
+			"connec",
+			"export",
+			"%T",
+			"$",
+			"hiveva",
+			"stored as p",
+			"time",
+			"site_matches",
+			"group",
+			"COUNT(1) cnt_all,\n    SUM(IF(d_filtered IS NOT NULL AND h_filtered IS NOT NULL, 1, 0)) cnt_both,",
+			"COUNT(1) cnt_all,\n    SUM(IF(d_filtered IS NOT NULL AND h_filtered IS NOT NULL, 1, 0)) cnt_both,\n    SUM(IF(d_filtered IS NOT NULL AND h_filtered IS NULL, 1, 0)) cnt_d_not_h,\n    SUM(IF(h_filtered IS NOT NULL AND d_filtered IS NULL, 1, 0)) cnt_h_not",
+			"collection_id,\n    COUNT(1) cnt_all,\n    SUM(IF(d_filtered IS NOT NULL AND h_filtered IS NOT NULL, 1, 0)) cnt_both,\n    SUM(IF(d_filtered IS NOT NULL AND h_filtered IS NULL, 1, 0)) cnt_d_not_h,\n    SUM(IF(h_filtered IS NOT NULL AND d_filtered IS NULL, 1, 0)) cnt_h_not_d",
+			"output_dir",
+			"echo \"(.+)?\";",
+			"===",
+			"collect",
+			"scp",
+			"cond1",
+			"hiveva",
+			"group",
+			"set",
+			"new",
+			"regula",
+			"tr",
+			"man ",
+			"man",
+			"tldr",
+			"array"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"date",
+			"integer",
+			"string",
+			"\\\"name\\\": \\\"$2\\\", \\\"type\\\": \\\"$1\\\"",
+			"\"",
+			"\\},\\n",
+			"\\},\\n     ",
+			"},\\n     ",
+			",\\n    ",
+			"\\n    ",
+			"\\t",
+			"echo $1;",
+			"***",
+			"event2Helper",
+			"eventKeyGedcomType",
+			"filteredRelatives",
+			"relativeCounts",
+			"\"",
+			"    \\1",
+			"\\n----------\\nAct: \\1\\nScene: \\2\\nLocation: \\3\\n----------\\n",
+			"\\n----------\\n Act: \\1\\nScene: \\2\\nLocation: \\3\\n----------\\n",
+			"\\n----------\\n Act: (\\1)\\nScene: (\\2)\\nLocation: \\3\\n----------\\n",
+			"\\1: ",
+			"\\n\\n----------\\nAct: \\1\\nScene: \\2\\nLocation: \\3\\n----------\\n",
+			"----------\\nAct: \\1\\nScene: \\2\\nLocation: \\3\\n----------\\n",
+			"\\n[\\1]",
+			"\\n\\n\\n[\\1]\\n",
+			"\\n\\n[\\1]\\n",
+			"\\n\\n\\n[\\1]",
+			"\\n\\n[\\1]\\n",
+			",",
+			"\\1,\\3,\\2,\\4",
+			"\\1,\\3,\\2,\\4 ",
+			"\\1,\\3 \\2,\\4 ",
+			"collections_stats_array",
+			"collections_array"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/roman.shtrahman/Web Development/Programming/matches_compare/ids_to_urls.php",
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/roman.shtrahman/Web Development/Programming/parameters_dictionary.php",
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/matches_stats.hive",
+					"settings":
+					{
+						"buffer_size": 17346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								843
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Apache Hive/Hive.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/high-level-stats-emr.sh",
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/matches_per_tree_size/matches_per_treesize_queries.sql",
+					"settings":
+					{
+						"buffer_size": 5160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/roman.shtrahman/Web Development/Programming/Hadoop/Hive_Projects/high-level-stats-emr.hive",
+					"settings":
+					{
+						"buffer_size": 8258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								927,
+								1110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Apache Hive/Hive.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/roman.shtrahman/NewMatching/trunk/scripts/compare-sis/compare-sis.php",
+					"settings":
+					{
+						"buffer_size": 14958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3666,
+								3666
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1673.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "eight_queens.php",
+					"settings":
+					{
+						"buffer_size": 930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 1778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1141,
+								1141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 676.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "styles/main.css",
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"/Users/roman.shtrahman/Web Development/Programming/PHP/Theory/PHP_Templates.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
